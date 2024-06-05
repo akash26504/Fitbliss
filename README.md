@@ -1,4 +1,4 @@
-# Fitbliss
+# Fitbit
 
 It can be hard to know how much or what kind of activity you need to stay healthy. Fitbliss is a fitness tracker application that has various features to help its users manage their health. It helps its users know how much physical activity they need, keep track of their daily exercises, and shows them how many calories they are burning.
 
